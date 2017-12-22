@@ -1,0 +1,14 @@
+body {
+  /*background-color: #7fffd4;*/
+}
+
+#nyan-cat {
+  position: fixed;
+  width: 100px;
+  right: 5%;
+  bottom: 5%;
+}
+
+.menu img {
+  max-width: 100vw;
+}
