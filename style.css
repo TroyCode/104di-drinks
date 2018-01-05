@@ -26,3 +26,7 @@ body {
 .stage img {
   max-width: 100%;
 }
+
+.stage h1, .stage p {
+  display: inline;
+}
